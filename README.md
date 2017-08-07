@@ -1,0 +1,2 @@
+# SideSlipItemDemo
+这是关于android listview中条目侧滑删除的一个demo
